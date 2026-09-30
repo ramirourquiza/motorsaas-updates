@@ -3,8 +3,8 @@
 Metadata **pública y firmada** de las versiones de MotorSaaS, publicada con GitHub Pages:
 
 - Sitio: <https://ramirourquiza.github.io/motorsaas-updates/>
-- Índice de versiones: <https://ramirourquiza.github.io/motorsaas-updates/motorsaas-updates.json> (se publica con la
-  primera versión oficial; hasta entonces no existe)
+- Índice de versiones: <https://ramirourquiza.github.io/motorsaas-updates/motorsaas-updates.json> (publicado desde
+  MotorSaaS 0.1.0, la primera versión oficial)
 
 MotorSaaS y su mecanismo de actualización son de uso **interno**: las aplicaciones que lo consultan viven en
 repositorios controlados por el mismo propietario.
